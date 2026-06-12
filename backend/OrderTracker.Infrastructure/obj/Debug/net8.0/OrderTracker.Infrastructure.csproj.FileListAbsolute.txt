@@ -1,0 +1,17 @@
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\obj\Debug\net8.0\OrderTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\obj\Debug\net8.0\OrderTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\obj\Debug\net8.0\OrderTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\obj\Debug\net8.0\OrderTracker.Infrastructure.AssemblyInfo.cs
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\obj\Debug\net8.0\OrderTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\bin\Debug\net8.0\OrderTracker.Infrastructure.deps.json
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\bin\Debug\net8.0\OrderTracker.Infrastructure.runtimeconfig.json
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\bin\Debug\net8.0\OrderTracker.Infrastructure.dll
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\bin\Debug\net8.0\OrderTracker.Infrastructure.pdb
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\bin\Debug\net8.0\OrderTracker.Core.dll
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\bin\Debug\net8.0\OrderTracker.Core.pdb
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\obj\Debug\net8.0\OrderTra.3AE22901.Up2Date
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\obj\Debug\net8.0\OrderTracker.Infrastructure.dll
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\obj\Debug\net8.0\refint\OrderTracker.Infrastructure.dll
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\obj\Debug\net8.0\OrderTracker.Infrastructure.pdb
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\obj\Debug\net8.0\OrderTracker.Infrastructure.genruntimeconfig.cache
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Infrastructure\obj\Debug\net8.0\ref\OrderTracker.Infrastructure.dll

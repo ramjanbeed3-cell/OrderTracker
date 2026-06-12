@@ -1,0 +1,17 @@
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\obj\Debug\net8.0\OrderTracker.Application.csproj.AssemblyReference.cache
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\obj\Debug\net8.0\OrderTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\obj\Debug\net8.0\OrderTracker.Application.AssemblyInfoInputs.cache
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\obj\Debug\net8.0\OrderTracker.Application.AssemblyInfo.cs
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\obj\Debug\net8.0\OrderTracker.Application.csproj.CoreCompileInputs.cache
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\bin\Debug\net8.0\OrderTracker.Application.deps.json
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\bin\Debug\net8.0\OrderTracker.Application.dll
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\bin\Debug\net8.0\OrderTracker.Application.pdb
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\bin\Debug\net8.0\OrderTracker.Core.dll
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\bin\Debug\net8.0\OrderTracker.Infrastructure.dll
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\bin\Debug\net8.0\OrderTracker.Core.pdb
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\bin\Debug\net8.0\OrderTracker.Infrastructure.pdb
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\obj\Debug\net8.0\OrderTra.D25575D8.Up2Date
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\obj\Debug\net8.0\OrderTracker.Application.dll
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\obj\Debug\net8.0\refint\OrderTracker.Application.dll
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\obj\Debug\net8.0\OrderTracker.Application.pdb
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Application\obj\Debug\net8.0\ref\OrderTracker.Application.dll

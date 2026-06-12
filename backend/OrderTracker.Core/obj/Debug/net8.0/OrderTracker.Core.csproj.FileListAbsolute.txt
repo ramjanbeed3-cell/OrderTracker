@@ -1,0 +1,11 @@
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Core\bin\Debug\net8.0\OrderTracker.Core.deps.json
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Core\bin\Debug\net8.0\OrderTracker.Core.dll
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Core\bin\Debug\net8.0\OrderTracker.Core.pdb
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Core\obj\Debug\net8.0\OrderTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Core\obj\Debug\net8.0\OrderTracker.Core.AssemblyInfoInputs.cache
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Core\obj\Debug\net8.0\OrderTracker.Core.AssemblyInfo.cs
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Core\obj\Debug\net8.0\OrderTracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Core\obj\Debug\net8.0\OrderTracker.Core.dll
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Core\obj\Debug\net8.0\refint\OrderTracker.Core.dll
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Core\obj\Debug\net8.0\OrderTracker.Core.pdb
+C:\Users\Khasim\Downloads\OrderTracker-\backend\OrderTracker.Core\obj\Debug\net8.0\ref\OrderTracker.Core.dll

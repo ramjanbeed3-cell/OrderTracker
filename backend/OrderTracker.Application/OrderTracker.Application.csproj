@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.2.0" />
+    <PackageReference Include="FluentValidation" Version="11.9.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OrderTracker.Core\OrderTracker.Core.csproj" />
+    <ProjectReference Include="..\OrderTracker.Infrastructure\OrderTracker.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>
