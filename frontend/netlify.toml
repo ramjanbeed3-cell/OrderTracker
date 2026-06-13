@@ -1,7 +1,7 @@
 [build]
-  base = "frontend"
-  command = "npm install && chmod +x node_modules/.bin/vite && node_modules/.bin/vite build"
+  command = "cd frontend && npm install && chmod +x node_modules/.bin/vite && node_modules/.bin/vite build"
   publish = "frontend/dist"
 
 [build.environment]
   NODE_VERSION = "18"
+  CI = "false"
