@@ -1,0 +1,7 @@
+[build]
+  base = "frontend"
+  command = "npm install && npx vite build"
+  publish = "frontend/dist"
+
+[build.environment]
+  NODE_VERSION = "18"
